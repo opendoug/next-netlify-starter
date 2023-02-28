@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <p className="banzai">
+          I'm not sure what to do with this, but I'll figure something out...
+        </p>
       </main>
 
       <Footer />
